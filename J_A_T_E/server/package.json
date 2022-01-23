@@ -1,0 +1,18 @@
+{
+    "name": "jate",
+    "version": "1.0.0",
+    "description": "Just Another Text Editor!",
+    "main": "server.js",
+    "scripts": {
+        "server": "node server.js"
+    },
+    "keywords": [],
+    "author": "Brian Turner",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
