@@ -2,7 +2,7 @@
   "name": "react_example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bkturner1220.github.io/react_example",
+  "homepage": "https://bkturner1220.github.io/React_Example",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
